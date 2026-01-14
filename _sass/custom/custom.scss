@@ -28,7 +28,9 @@ summary {
   width: 100%;
 }
 
-.main-content {
+.main {
+  max-width: 60rem;
+  
   dl {
     display: block;
     grid-template-columns: none;

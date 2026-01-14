@@ -29,11 +29,11 @@
     }
 
     @include mq(lg) {
-      grid-template-columns: 1fr 7fr;
+      grid-template-columns: 1.3fr 10fr;
     }
 
     %module-item {
-      margin: 0;
+      margin: 0.1em;
       padding: $sp-2;
 
       @include mq(sm) {
@@ -84,13 +84,22 @@
         }
 
         dt {
-          flex: 0 0 62.5%;
+          flex: 0 0 45%;
           font-weight: normal;
-          margin: 0;
+          margin: 1em;
         }
 
         dd {
-          margin: 0;
+          flex: 1 1 auto;
+          // margin: 2em;
+          
+          &:first-of-type {
+            flex: 0 0 65.5%;
+          }
+          
+          &:last-of-type {
+            flex: 0 0 35.5%;
+          }
         }
       }
     }
