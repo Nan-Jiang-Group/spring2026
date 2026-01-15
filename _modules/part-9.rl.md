@@ -15,17 +15,18 @@ Week 11 Apr 2
     : None
       : [slides](), [video]()
 
+
+
 Week 12 Apr 7
   : Deep Q-Learning
     : None
       : [slides](), [video]()
 
-
-
-
 **Homework**  
-  : **HW 5 Release**{: .label .label-green }
+  : **HW 4 Due**{: .label .label-red }/  **HW 5 Release**{: .label .label-green }
     : [HW 5]()
+
+
 
 
 

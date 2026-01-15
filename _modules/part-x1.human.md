@@ -16,8 +16,6 @@ Week 13 Apr 16
 
 
 
-**Homework**  
-  : **HW 5 Due**{: .label .label-red }
-    : [HW 5]()
+
 
 

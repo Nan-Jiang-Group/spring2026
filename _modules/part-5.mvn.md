@@ -21,12 +21,7 @@ Week 7 Mar 3
 
 
 **Homework**  
-  : **HW 2 Due**{: .label .label-red }
-    : [HW 2]()
-
-
-**Homework**  
-  : **HW 3 Release**{: .label .label-green }
+  : **HW 2 Due**{: .label .label-red }/ **HW 3 Release**{: .label .label-green }
     : [HW 3]()
 
 
