@@ -31,5 +31,5 @@ Week 10 Mar 26
 Week 11 Mar 31
   : Midterm exam
     : None
-      : [slides](), [video]()
+      
 
