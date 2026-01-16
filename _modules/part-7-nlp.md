@@ -27,3 +27,9 @@ Week 10 Mar 26
   : Pytorch implementation on Multi-head self-attention
     : None
       : [slides](), [video]()
+
+
+Week 11 Mar 31
+  : Intro to Large Language Model
+    : None
+      : [slides](), [video]()

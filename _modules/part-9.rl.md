@@ -14,12 +14,29 @@ title: Reinforcement Learning
 
 
 
-Week 13 Apr 14
+Week 14 Apr 21
   : Intro to Reinforcement Leanring; 
     : DiDL (Ch. 11);
       : [slides](), [video]()
 
-Week 13 Apr 16
+Week 14 Apr 23
   : Deep Q-Learning
     : None
       : [slides](), [video]()
+
+**Homework <br /> May 7**  
+  : **HW 4 Due**{: .label .label-red }
+
+Week 15 Apr 28
+  : Deep Policy Gradient
+    : None
+      : [slides](), [video]()
+
+
+
+Week 15 Apr 30
+  : RL from Human Feedback (RLHF)
+    : None
+      : [slides](), [video]()
+
+
