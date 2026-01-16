@@ -12,15 +12,33 @@ title: Training Neural Networks
 
 
 Week 2 Jan 27
-  : Optimization
+  : MLPs (continue); <br /> Backpropagation
     : DiDL (Ch. 12);
       : [slides](), [video]()
 
 Week 2 Jan 29
-  : Regularization
+  : Pytorch tutorial on Perceptron and MLPs; 
     : DiDL (Ch. 3.7, 5.6, 8.5)
         : [slides](), [video]()
 
 Homework  
   : **HW 1 Release**{: .label .label-green }
     : [HW 1]()
+
+Week 3 Feb 3
+  : Different Gradient Optimizers; Learning rate scheduling
+    : DiDL (Ch. 12);
+      : [slides](), [video]()
+
+
+
+Week 3 Feb 5
+  : Model Regularization
+    : DiDL (Ch. 3.7, 5.6, 8.5)
+      : [slides](url_link), [video]()
+
+
+Week 4 Feb 10
+  : Pytorch Tutorial for Gradient Optimizers, Learning rates and regularization
+    : None
+      : [slides](), [video]()

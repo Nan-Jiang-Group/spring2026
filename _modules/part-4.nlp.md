@@ -1,6 +1,7 @@
 ---
-title: Natural Language Processing
+title: Natural Language Processing #Modern Vision Networks
 ---
+
 
 **Week**
   : **Topic**
@@ -9,26 +10,32 @@ title: Natural Language Processing
 
 
 
-Week 4  <br /> Feb 12
-  : Word Embeddings
+Week 6  <br /> Feb 24
+  : Tokenization; Word Embeddings 
+    : DiDL (Ch. 9); [Word Embedding BlogPost](https://lilianweng.github.io/posts/2017-10-15-word-embedding/)
+      : [slides](), [video]()
+
+
+Week 6 Mar 26
+  : Recurrent Neural Networks (RNNs) and its Extensions
+    : DiDL (Ch. 9.4-9.7)
+      : [slides](), [video]()
+
+Week 7 Mar 3
+  : Pytorch tutorial on RNNs
     : None
       : [slides](), [video]()
+
 
 **Homework**  
-  : **HW 1 Due**{: .label .label-red }/  **HW 2 Release**{: .label .label-green }
-    : [HW 2]()
+  : **HW 2 Due**{: .label .label-red }/ **HW 3 Release**{: .label .label-green }
+    : [HW 3]()
 
-Week 5  <br /> Feb 17
-  : Recurrent Neural Networks (RNNs) + Long Short-term Memory (LSTM)
-    : None
+
+
+Week 7  <br /> Mar 5
+  : Attention Mechanism; Self-Attention; 
+    : DiDL (Ch. 11);
       : [slides](), [video]()
 
-Week 5  <br /> Feb 19
-  : Attention; Transformers
-    : None
-      : [slides](), [video]()
 
-Week 6  <br /> Feb 24
-  : Transformers(continued); Large Language Models (LLMs)
-    : None
-      : [slides](), [video]()

@@ -1,5 +1,5 @@
 ---
-title: Generative Models 
+title:  Midterm
 ---
 
 
@@ -11,10 +11,7 @@ title: Generative Models
 
 
 
-Week 7  <br /> Mar 5
-  : Discriminators; Generative Adversarial Networks (GANs)
-    : None
-      : [slides](), [video]()
+
 
 Week 8  <br /> Mar 10
   : Review Recitation
