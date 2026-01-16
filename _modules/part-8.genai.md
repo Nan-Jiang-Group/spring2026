@@ -5,10 +5,7 @@ title: Generative Model
 
 
 
-Week 11 Mar 31
-  : 
-    : None
-      : [slides](), [video]()
+
       
 
 Week 11 Apr 2
