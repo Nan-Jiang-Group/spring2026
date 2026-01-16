@@ -17,7 +17,7 @@ Week 6  <br /> Feb 24
 
 
 Week 6 Mar 26
-  : Recurrent Neural Networks (RNNs) and its Extensions
+  : Recurrent Neural Networks (RNNs) and their Extensions
     : DiDL (Ch. 9.4-9.7)
       : [slides](), [video]()
 

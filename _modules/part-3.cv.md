@@ -27,6 +27,6 @@ Week 5  <br /> Feb 17
     : [HW 2]()
 
 Week 5  <br /> Feb 19
-  : Pytorch Tutorial for CNNs (LeNet 5); 
+  : Pytorch Tutorial on CNNs (LeNet 5); 
     : None
       : [slides](), [video]()

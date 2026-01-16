@@ -24,7 +24,7 @@ Week 10 Mar 24
 
 
 Week 10 Mar 26
-  : Pytorch implementation on Multi-head self-attention
+  : Pytorch tutorial on Multi-head self-attention
     : None
       : [slides](), [video]()
 

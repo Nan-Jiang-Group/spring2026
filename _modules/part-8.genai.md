@@ -9,7 +9,7 @@ title: Generative Model
       
 
 Week 11 Apr 2
-  : U-Nets; Variational Autoencoders (VAEs)	
+  : U-Nets; 
     : None
       : [slides](), [video]()
       
@@ -18,7 +18,7 @@ Week 11 Apr 2
 
 
 Week 12 Apr 7
-  : Pytorch tutorial on U-net.
+  : Variational Autoencoders (VAEs)	
     : None
       : [slides](), [video]()
 
