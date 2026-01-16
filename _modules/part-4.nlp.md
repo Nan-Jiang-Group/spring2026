@@ -27,9 +27,6 @@ Week 7 Mar 3
       : [slides](), [video]()
 
 
-**Homework**  
-  : **HW 2 Due**{: .label .label-red }/ **HW 3 Release**{: .label .label-green }
-    : [HW 3]()
 
 
 
@@ -38,4 +35,6 @@ Week 7  <br /> Mar 5
     : DiDL (Ch. 11);
       : [slides](), [video]()
 
+**Homework <br /> Mar 5**  
+  : **HW 2 Due**{: .label .label-red }
 

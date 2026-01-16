@@ -18,9 +18,9 @@ Week 10 Mar 24
 
 
 
-**Homework**  
-  : **HW 3 Due**{: .label .label-red }, **HW 4 Release**{: .label .label-green }
-    :  [HW 4]()
+**Homework <br /> Mar 24**  
+  : **HW 3 Release**{: .label .label-green }
+    :  [HW 3]()
 
 
 Week 10 Mar 26

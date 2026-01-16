@@ -23,6 +23,6 @@ Week 8  <br /> Mar 10
 
 
 Week 8 <br />  Mar 12
-  : **Midterm exam**{: .label .label-red }
+  : **Midterm exam (In class)**{: .label .label-red }
     : None
       : None

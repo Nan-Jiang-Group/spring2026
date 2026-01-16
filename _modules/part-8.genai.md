@@ -26,9 +26,9 @@ Week 12 Apr 7
       : [slides](), [video]()
       
 
-**Homework**  
-  : **HW 4 Due**{: .label .label-red }/  **HW 5 Release**{: .label .label-green }
-    : [HW 5]()
+**Homework <br /> Apr 7**  
+  : **HW 3 Due**{: .label .label-red }/  **HW 4 Release**{: .label .label-green }
+    : [HW 4]()
 
 
 

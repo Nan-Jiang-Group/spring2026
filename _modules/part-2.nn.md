@@ -21,9 +21,9 @@ Week 2 Jan 29
     : DiDL (Ch. 3.7, 5.6, 8.5)
         : [slides](), [video]()
 
-Homework  
+**Homework <br /> Jan 29**  
   : **HW 1 Release**{: .label .label-green }
-    : [HW 1]()
+    : [HW 1.zip]()
 
 Week 3 Feb 3
   : Different Gradient Optimizers; Learning rate scheduling

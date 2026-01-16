@@ -20,6 +20,6 @@ Week 13 Apr 14
       : [slides](), [video]()
 
 Week 13 Apr 16
-  : Deep Q-Learning; Policy Gradient
+  : Deep Q-Learning
     : None
       : [slides](), [video]()
