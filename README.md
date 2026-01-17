@@ -19,6 +19,10 @@ The course also connects these methods to real-world applications in computer vi
 # Course Syllabus
 Here is the [Course Syllabus](https://www.dropbox.com/scl/fi/97reo2f9onry17bguwsmt/syllabus-Spring-2026-Nan-Jiang-fall-2025-deep-learning.pdf?rlkey=ipbmpmemd72jpbtu4m4xf5x0l&st=m5gosenh&dl=0)
 
+## AI Policy for the Deep Learning course
+
+Students are permitted to use AI assistants for all homework and programming assignments (especially as a reference for understanding any topics that seem confusing), but we strongly encourage you to complete your final submitted version of your assignment without AI. 
+
 # Reference 
 
 ## Courses:
@@ -29,5 +33,8 @@ Here is the [Course Syllabus](https://www.dropbox.com/scl/fi/97reo2f9onry17bguws
 - [Cornell, Intro to Deep Learning, Spring 2025](https://www.cs.cornell.edu/courses/cs4782/2025sp/)
 
 ## Books
-- Dive Into Deep Learning, by Zhang, A., Lipton, Z.C., Li, M. & Smola, A.J.
-This text includes many of the topics covered in this course with instructive Pytorch implementations. We will provide section numbers to this text alongside many of the lectures (abbreviated as DiDL in the schedule). This text is available online. [Book website](https://d2l.ai/)
+- Dive Into Deep Learning, by Zhang, A., Lipton, Z.C., Li, M. & Smola, A.J. This text is available online.  [Book website](https://d2l.ai/)
+
+This text includes many of the topics covered in this course with instructive Pytorch implementations. We will provide section numbers to this text alongside many of the lectures (abbreviated as DiDL in the schedule). 
+
+
