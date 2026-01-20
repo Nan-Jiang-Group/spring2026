@@ -25,7 +25,7 @@ schedule:
       - name: Lecture
         start: 1:30 PM
         end: 2:50 PM
-        location: CSSB 1.0202
+        location: TWH 302
   - name: Wednesday
   - name: Thursday
     events:
@@ -37,6 +37,6 @@ schedule:
       - name: Office Hours
         start: 4:00 PM
         end: 5:00 PM
-        location: CSSB 3.0504
+        location: TWH 302
   - name: Friday
 ---
