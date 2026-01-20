@@ -12,7 +12,7 @@ title: Basics
 Week 1 Jan 20
   : Logistics + Brief History on Deep Learning
     : None
-      : [slides](), [video]()
+      : [slides](https://www.dropbox.com/scl/fi/fo7lokmvv36v8ldc5hysh/week-1-Jan-20.pdf?rlkey=tupbrx058norrhl96rwq4ug84&st=ybkw19wz&dl=0)
 
 Week 1 Jan 22
   : Perceptrons Algorithm;  <br /> Intro to Multi-layer Perceptrons (MLPs)
