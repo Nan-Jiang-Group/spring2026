@@ -24,7 +24,7 @@ Week 14 Apr 23
     : None
       : [slides](), [video]()
 
-**Homework <br /> May 7**  
+**Homework <br /> Apr 23**  
   : **HW 4 Due**{: .label .label-red }
 
 Week 15 Apr 28

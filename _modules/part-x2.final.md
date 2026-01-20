@@ -9,7 +9,7 @@ title: Final Project Presentation
     : **References**
       : **Notes**
 
-Week 16  <br />  May 7
+Week 16  <br />  May 5
 : Student project presentation
     
 
