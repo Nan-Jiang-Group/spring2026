@@ -1,0 +1,22 @@
+---
+title: Training Neural Networks
+---
+
+
+
+**Week**
+  : **Topic**
+    : **References**
+      : **Notes**
+
+
+
+Week 2 Jan 27
+  : MLPs (continue); <br /> Backpropagation
+    : DiDL (Ch. 12);
+      : [slides](), [video]()
+
+Week 2 Jan 29
+  : Pytorch tutorial on Perceptron and MLPs; 
+    : DiDL (Ch. 3.7, 5.6, 8.5)
+        : [slides](), [video]()
