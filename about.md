@@ -25,7 +25,8 @@ Students will build intuition and implementation skills in PyTorch, study key ar
 The course also connects these methods to real-world applications in computer vision, natural language processing, and large language models, with attention to efficient inference and post-training workflows.
 
 # Course Syllabus
-Here is the [Course Syllabus](https://www.dropbox.com/scl/fi/97reo2f9onry17bguwsmt/syllabus-Spring-2026-Nan-Jiang-fall-2025-deep-learning.pdf?rlkey=ipbmpmemd72jpbtu4m4xf5x0l&st=m5gosenh&dl=0)
+Here is the [Course Syllabus](https://www.dropbox.com/scl/fi/jjvp9dr6n7dsppjc2ew8h/syllabus-Deep-Learning-spring-2026-Nan-Jiang.pdf?rlkey=fxvzgqj3blkne10b5gmkjuxc3&st=sidyjfqa&dl=0)
+
 
 ## AI Policy for the Deep Learning course
 
