@@ -28,7 +28,7 @@ Week 2 Jan 29
 
 Week 3 Feb 3
   : Different Gradient Optimizers; Learning rate scheduling
-    : DiDL (Ch. 12);
+    : DiDL (Ch. 12); [Gradient Descent Demo](https://github.com/lilipads/gradient_descent_viz)
       : [slides](), [video]()
 
 
