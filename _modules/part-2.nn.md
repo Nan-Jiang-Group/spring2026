@@ -24,7 +24,7 @@ Week 2 Jan 29
 
 **Homework <br /> Jan 29**  
   : **HW 1 Release**{: .label .label-green }
-    : [HW 1.zip]()
+    : [HW 1.zip](https://www.dropbox.com/scl/fi/k7uyd0wtz8x9xkpzsywyc/HW1.zip?rlkey=3dnqbc3fkviifzlhps3vzw9p2&st=d6w0nbqv&dl=0)
 
 Week 3 Feb 3
   : Different Gradient Optimizers; Learning rate scheduling
