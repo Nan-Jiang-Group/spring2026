@@ -19,7 +19,7 @@ Week 2 Jan 27
 Week 2 Jan 29
   : Pytorch tutorial on Perceptron and MLPs; 
     : DiDL (Ch. 3.7, 5.6, 8.5)
-        : [slides](), [video]()
+        : [slides](https://www.dropbox.com/scl/fi/zq7fmp8yco4g5qx5ygzof/week-2-Jan-29-part-1.pdf?rlkey=fiwio8uii3l65aglpikzcbgwk&st=ymbo7siw&dl=0), [Jupyter notebook](https://www.dropbox.com/scl/fi/awh2hrwd5y8g7dlf8h910/Jan-29-linear-regression-scratch.ipynb?rlkey=s7dimcuwl5jyce42olatgvtfs&st=z5fx9w10&dl=0)
 
 
 **Homework <br /> Jan 29**  
