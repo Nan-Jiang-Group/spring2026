@@ -26,7 +26,8 @@ Week 7  <br /> Mar 5
     : None
       : [slides](), [video]()
 
-
+**Homework <br /> Mar 5**  
+  : **HW 2 Due**{: .label .label-red }
 
 
 
@@ -35,6 +36,5 @@ Week 8  <br /> Mar 10
     : DiDL (Ch. 11);
       : [slides](), [video]()
 
-**Homework <br /> Mar 5**  
-  : **HW 2 Due**{: .label .label-red }
+
 

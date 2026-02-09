@@ -50,3 +50,8 @@ Week 4  <br /> Feb 12
   : PyTorch Tutorial for Gradient Optimizers, learning rates, and regularization
     : DiDL (Ch. 3.7, 5.6, 8.5)
       : [slides]()
+
+
+**Homework  <br /> Feb 17**  
+  : **HW 2 Release**{: .label .label-green }
+    : [HW 2]()

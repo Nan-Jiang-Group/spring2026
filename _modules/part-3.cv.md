@@ -16,7 +16,7 @@ Week 5  <br /> Feb 17
       : [slides]()
 
 **Homework  <br /> Feb 17**  
-  : **HW 1 Due**{: .label .label-red }/  **HW 2 Release**{: .label .label-green }
+  : **HW 1 Due**{: .label .label-red }
     : [HW 2]()
 
 Week 5  <br /> Feb 19
