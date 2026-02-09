@@ -18,7 +18,7 @@ Week 4  <br /> Feb 12
 
 
 Week 5  <br /> Feb 17
-  : Convolutional Neural Networks 
+  : Convolutional Neural Networks (LeNet5) and Residual Net
     : DiDL (Ch. 7);
       : [slides](), [video]()
 

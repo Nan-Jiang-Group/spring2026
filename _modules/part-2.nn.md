@@ -34,6 +34,13 @@ Week 3 Feb 3
 
 
 Week 3 Feb 5
-  : Overfitting, Underfitting and Regularization
+  : Overfitting, Underfitting
     : DiDL (Ch. 3.7, 5.6, 8.5)
       : [slides]([url_link](https://www.dropbox.com/scl/fi/zjcm5eqwh6xztfrg3ddk9/week-3-feb-5.pdf?rlkey=xq2527vcdtutx3ckdwo4ydu5a&st=roysu5ad&dl=0))
+
+
+
+Week 4 Feb 10
+  : L1/L2 Regularization, Dropouts
+    : DiDL (Ch. 3.7, 5.6, 8.5)
+      : [slides]()
