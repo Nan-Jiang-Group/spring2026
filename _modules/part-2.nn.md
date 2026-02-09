@@ -52,6 +52,6 @@ Week 4  <br /> Feb 12
       : [slides]()
 
 
-**Homework  <br /> Feb 17**  
+**Homework  <br /> Feb 12**  
   : **HW 2 Release**{: .label .label-green }
     : [HW 2]()
