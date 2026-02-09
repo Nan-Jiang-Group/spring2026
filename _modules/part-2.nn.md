@@ -44,3 +44,9 @@ Week 4 Feb 10
   : L1/L2 Regularization, Dropouts
     : DiDL (Ch. 3.7, 5.6, 8.5)
       : [slides]()
+
+
+Week 4  <br /> Feb 12
+  : PyTorch Tutorial for Gradient Optimizers, learning rates, and regularization
+    : DiDL (Ch. 3.7, 5.6, 8.5)
+      : [slides]()

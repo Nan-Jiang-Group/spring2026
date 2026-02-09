@@ -10,15 +10,8 @@ title: Computer Vision
 
 
 
-Week 4  <br /> Feb 12
-  : What is Convolution and Pooling?
-    : DiDL (Ch. 7);
-      : [slides]()
-
-
-
 Week 5  <br /> Feb 17
-  : Convolutional Neural Networks (LeNet5) and Residual Net
+  : What is Convolution and Pooling?
     : DiDL (Ch. 7);
       : [slides]()
 
@@ -27,6 +20,13 @@ Week 5  <br /> Feb 17
     : [HW 2]()
 
 Week 5  <br /> Feb 19
-  : Pytorch Tutorial for LeNet5 for MINIST dataset.
+  : Convolutional Neural Networks (LeNet5) and Residual Net
     : None
       : [slides]()
+
+
+Week 6  <br /> Feb 24
+  : Pytorch Tutorial for LeNet5 for MINIST dataset.
+    : DiDL; 
+      : [slides](), [video]()
+      
