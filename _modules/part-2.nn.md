@@ -43,7 +43,7 @@ Week 3 Feb 5
 Week 4 Feb 10
   : L1/L2 Regularization, Dropouts
     : DiDL (Ch. 3.7, 5.6, 8.5)
-      : [slides]()
+      : [slides](https://www.dropbox.com/scl/fi/5zh2g5adsdd77djiqo6ia/week-4-feb-10.pdf?rlkey=rl92orm0wszqxhocl2l6q3e8u&st=vvnk0v15&dl=0)
 
 
 Week 4  <br /> Feb 12

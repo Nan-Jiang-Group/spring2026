@@ -14,7 +14,7 @@ title:  Midterm
 
 
 Week 10  <br />  Mar 24
-  : Review Recitation
+  : Review Recitation; 
     : None
       : [slides](), [video]()
       
