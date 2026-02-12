@@ -49,9 +49,14 @@ Week 4 Feb 10
 Week 4  <br /> Feb 12
   : PyTorch Tutorial for Gradient Optimizers, learning rates, and regularization
     : DiDL (Ch. 3.7, 5.6, 8.5)
-      : [slides]()
+      : [slides](https://www.dropbox.com/scl/fi/u3xc57t77ya15la3n0dj5/week-4-feb-12.pdf?rlkey=51s1b5t0vy4rjcqkx0awvamti&st=2hvnpvee&dl=0)
+
+**Homework <br /> Jan 29**  
+  : **Quiz 1 Release**{: .label .label-green }
+    : [Quiz.pdf](https://www.dropbox.com/scl/fi/86p1rpzptdsn7xpwnwmhv/Quiz-1.pdf?rlkey=9crlxvdhyrk9cdiki3u6slkjl&st=z3jkd58y&dl=0)
 
 
-**Homework  <br /> Feb 12**  
+Week 4  <br /> Feb 14
+: **Homework  <br /> Feb 14**  
   : **HW 2 Release**{: .label .label-green }
     : [HW 2]()
