@@ -19,7 +19,8 @@ Week 10  <br />  Mar 24
       : [slides](), [video]()
       
       
-
+**Homework <br /> Mar 25**  
+  : **HW 2 Due**{: .label .label-red }
 
 
 Week 10 <br />   Mar 26

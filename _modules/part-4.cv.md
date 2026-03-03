@@ -8,7 +8,7 @@ title: Computer Vision
       : **Notes**
 
 
-
+<!-- 
 
 Week 5  <br /> Feb 17
   : What is Convolution and Pooling?
@@ -30,3 +30,6 @@ Week 6  <br /> Feb 24
     : DiDL; 
       : [slides](), [video]()
       
+ -->
+
+

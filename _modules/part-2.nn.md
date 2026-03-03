@@ -56,7 +56,7 @@ Week 4  <br /> Feb 12
     : [Quiz.pdf](https://www.dropbox.com/scl/fi/86p1rpzptdsn7xpwnwmhv/Quiz-1.pdf?rlkey=9crlxvdhyrk9cdiki3u6slkjl&st=z3jkd58y&dl=0)
 
 
-Week 4  <br /> Feb 14
-: **Homework  <br /> Feb 14**  
-  : **HW 2 Release**{: .label .label-green }
-    : [HW 2]()
+Week 5  <br /> Feb 17
+  : Dropout; Batch normalization
+    : DiDL (Ch. 9); 
+      : [slides](), [video]()
