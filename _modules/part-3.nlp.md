@@ -33,7 +33,7 @@ Week 6  <br /> Feb 26
 Week 7  <br /> Mar 3
 : **Homework  <br /> Mar 3**  
   : **HW 2 Release**{: .label .label-green }
-    : [HW 2](https://www.dropbox.com/scl/fi/5wubhw65mv9z89sm8wa47/HW2.zip?rlkey=iug6daevme6idf1k354qazqex&st=p577kxh8&dl=0)
+    : [HW 2](https://www.dropbox.com/scl/fi/5wubhw65mv9z89sm8wa47/HW2.zip?rlkey=iug6daevme6idf1k354qazqex&st=6yxki0og&dl=0)
 
 Week 7  <br /> Mar 3
   : Pytorch tutorial on tokenization, embedding, RNNs
