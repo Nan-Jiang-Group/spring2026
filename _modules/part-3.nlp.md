@@ -36,24 +36,27 @@ Week 7  <br /> Mar 3
     : [HW 2](https://www.dropbox.com/scl/fi/5wubhw65mv9z89sm8wa47/HW2.zip?rlkey=iug6daevme6idf1k354qazqex&st=6yxki0og&dl=0)
 
 Week 7  <br /> Mar 3
-  : Pytorch tutorial on tokenization, embedding, RNNs
+  : Pytorch tutorial on tokenization; text processing; Ngram
     : None
       : [slides](), [video]()
 
 Week 7  <br /> Mar 5
-  : Gradient vanishing/explosing; RNN extension.
+  : Pytorch tutorial on embedding, RNNs
     : None
       : [slides](), [video]()
 
 
 Week 8  <br /> Mar 10
-  : Attention Mechanism; Self-Attention; 
+  : Back-Propagation Through Time (BPTT); Quiz 3
     : DiDL (Ch. 11);
       : [slides](), [video]()
 
 
 Week 8  <br /> Mar 12
-  : Pytorch tutorial on self-attention.
+  : Gradient vanishing/explosing; RNN extension:  
     : DiDL (Ch. 11);
       : [slides](), [video]()
 
+
+<!-- Attention Mechanism; Self-Attention;  -->
+<!-- Pytorch tutorial on self-attention. -->
