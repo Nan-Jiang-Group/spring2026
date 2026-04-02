@@ -46,9 +46,3 @@ Week 12 Apr 9
       : None
 
 
-Week 11 Mar 31
-  : Intro to Large Language Model
-    : None
-      : [slides](), [video]()
-
-
