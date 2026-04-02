@@ -11,7 +11,7 @@ title: Natural Language Processing #Modern Vision Networks
 
 Week 11 Mar 31
   : Pytorch tutorial on Homework 2.
-    : DiDL (Ch. 11); Speech and Language Processing (Chp. 10-11)
+    : None
       : [slides]()
 
 
@@ -20,7 +20,7 @@ Week 11 Mar 31
 
 
 Week 11 Apr 2
-  : Multi-head self-attention; 
+  : Attention Mechanism.
     : None
       : [slides]()
 
