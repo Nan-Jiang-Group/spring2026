@@ -20,7 +20,7 @@ Week 11 Mar 31
 
 
 Week 11 Apr 2
-  : Attention Mechanism.
+  : LSTM
     : None
       : [slides]()
 
@@ -28,21 +28,30 @@ Week 11 Apr 2
 
 
 Week 12 Apr 7
-  : Transformers; BERT
+  : LSTM + attention
     : None
       : [slides]()
 
 
-**Homework <br /> Apr 7**  
-  : **HW 3 Release**{: .label .label-green }
-    :  [HW 3]()
-
-
-
 
 Week 12 Apr 9
-  : Intro to Large Language Model
+  : self-attention
     : None
       : None
 
 
+Week 13 Apr 14
+  : Multi-head Self-attention 
+    : None
+      : [slides](), [video]()
+
+
+Week 13 Apr 16
+  : Pytorch implementation on Multi-head Self-attention 
+    : None
+      : [slides](), [video]()
+
+Week 14 Apr 21
+  : BERT, T5, GPT model; 
+    : DiDL (Ch. 11);
+      : [slides](), [video]()
